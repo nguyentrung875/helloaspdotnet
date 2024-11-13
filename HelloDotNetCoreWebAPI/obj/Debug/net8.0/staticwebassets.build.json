@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FhqMAyFS2shvTRdrkZb6FwU6km/XHmImMsCcb1eY4dU=",
+  "Source": "HelloDotNetCoreWebAPI",
+  "BasePath": "_content/HelloDotNetCoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
